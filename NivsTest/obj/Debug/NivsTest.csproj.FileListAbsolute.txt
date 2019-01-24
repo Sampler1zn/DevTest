@@ -1,0 +1,7 @@
+C:\Users\EthanA\Documents\Visual Studio 2017\Projects\NivsTest\NivsTest\bin\Debug\NivsTest.exe.config
+C:\Users\EthanA\Documents\Visual Studio 2017\Projects\NivsTest\NivsTest\bin\Debug\NivsTest.exe
+C:\Users\EthanA\Documents\Visual Studio 2017\Projects\NivsTest\NivsTest\bin\Debug\NivsTest.pdb
+C:\Users\EthanA\Documents\Visual Studio 2017\Projects\NivsTest\NivsTest\obj\Debug\NivsTest.csprojAssemblyReference.cache
+C:\Users\EthanA\Documents\Visual Studio 2017\Projects\NivsTest\NivsTest\obj\Debug\NivsTest.csproj.CoreCompileInputs.cache
+C:\Users\EthanA\Documents\Visual Studio 2017\Projects\NivsTest\NivsTest\obj\Debug\NivsTest.exe
+C:\Users\EthanA\Documents\Visual Studio 2017\Projects\NivsTest\NivsTest\obj\Debug\NivsTest.pdb
